@@ -1,5 +1,5 @@
 ![Banner Image](bannerimage.png)
-### Hi there 👋
+### Hi there ![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
 
 <!--
 **samvaarv/samvaarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
