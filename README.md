@@ -23,7 +23,7 @@ company. While working there, I got quite familiar with the working
 environment and got to expand my knowledge of web development.
 
 I come from a small family – there are just five of us. Me, my father
-and mother, my brother, and our little sister. Also, my dog (Haru) who is
+and mother, my brother, and our little sister. Also, my dog (Haru) is
 quite fidgety and has destroyed most of our clothes, but we still love
 him.
 
